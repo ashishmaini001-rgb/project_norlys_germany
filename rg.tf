@@ -13,3 +13,8 @@ resource "azurerm_resource_group" "Block3"{
   name="sv"
   location="west us"
   }
+resource "azurerm_resource_group" "Block4"{
+
+  name="KKK"
+  location="west us"
+  }
